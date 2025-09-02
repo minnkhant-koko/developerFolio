@@ -26,16 +26,16 @@ const greeting = {
     "An accomplished Android Engineer with 8 years of experience in designing, developing, and supporting innovative solutions across multiple industries, including Airlines, FinT ech, Lifestyle, Agency, Consumer Services, and Newsletter. Proven ability to deliver high-quality code and support end-to-end product development lifecycle. Adept at collaborating with cross-functional teams, including designers, product managers, and developers, to create and implement solutions that meet business and user needs."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
+  github: "https://github.com/minnkhant-koko",
+  linkedin: "https://www.linkedin.com/in/min-khant-ko-ko/",
+  gmail: "hello.minnkhant@gmail.com",
   gitlab: "",
   facebook: "",
   medium: "",
@@ -137,18 +137,18 @@ const educationInfo = {
 // Your top 3 proficient stacks/tech experience
 
 const techStack = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
+  viewSkillBars: false, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Frontend/Design", //Insert stack or technology you have experience in
-      progressPercentage: "90%" //Insert relative proficiency in percentage
+      Stack: "Kotlin", //Insert stack or technology you have experience in
+      progressPercentage: "0%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "Backend",
+      Stack: "Java",
       progressPercentage: "70%"
     },
     {
-      Stack: "Programming",
+      Stack: "Android",
       progressPercentage: "60%"
     }
   ],
@@ -225,35 +225,100 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "My Work",
+  subtitle: "The apps I contributed through out my career",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/qantasAppLogo.png"),
+      projectName: "Qantas Airway",
+      projectDesc: "Spirit of Australia",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "Playstore",
+          url: "https://play.google.com/store/apps/details?id=au.com.qantas.qantas&hl=en"
         }
-        //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/centralOnlineLogo.jpg"),
+      projectName: "Central",
+      projectDesc: "The Best Online Shopping",
       footerLink: [
         {
-          name: "Visit Website",
+          name: "Playstore",
           url: "http://nextu.se/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/topsOnlineLogo.png"),
+      projectName: "Tops Online",
+      projectDesc: "WORLD'S FINEST",
+      footerLink: [
+        {
+          name: "Playstore",
+          url: "https://play.google.com/store/search?q=tops+online&c=apps&hl=en"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/supersportsLogo.jpg"),
+      projectName: "Supersports",
+      projectDesc: "The Game Starts Here",
+      footerLink: [
+        {
+          name: "Playstore",
+          url: "https://play.google.com/store/apps/details?id=th.co.supersports&hl=en"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/journeyAppLogo.png"),
+      projectName: "Journey",
+      projectDesc: "Trusted Journalin Companion",
+      footerLink: [
+        {
+          name: "Website",
+          url: "https://journey.cloud/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/jotterPadLogo.png"),
+      projectName: "Jotterpad",
+      projectDesc: "Create Stunning Documents",
+      footerLink: [
+        {
+          name: "Website",
+          url: "https://jotterpad.app/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/UMFCCILogo.png"),
+      projectName: "UMFCCI Member",
+      projectDesc: "Stay Connected with UMFCCI",
+      footerLink: [
+        {
+          name: "Website",
+          url: "https://play.google.com/store/apps/details?id=mm.com.motherfinance.borrower&gl=mm"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/motherFinanceLogo.png"),
+      projectName: "Mother Finance",
+      projectDesc: "Apply for A Personal Loan",
+      footerLink: [
+        {
+          name: "Playstore",
+          url: "https://play.google.com/store/apps/details?id=mm.com.motherfinance.borrower&gl=mm"
         }
       ]
     }
@@ -271,53 +336,35 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "Grand Winner : Mobile Application Training. Samsung Tech Institute - 2016",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
+        "Awarded fir excellence in mobile app development during national training program.",
+      image: require("./assets/images/samsung.jpg"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          url: "https://drive.google.com/file/d/1uNh3klgrGCp_CbjaJvsMuhV2e6LV4DJy/view?usp=drive_link"
         },
         {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          name: "Blog",
+          url: "http://www.newwave-tech.com/samsungtechinstitute/2016-students-winner-list"
         }
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "Light of HMS - 2020",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
-      imageAlt: "Google Assistant Action Logo",
+        "Supports multiple clients who were using HMS services in Southeast Asia",
+      image: require("./assets/images/huaweiLogo.png"),
+      imageAlt: "Huawei Logo",
       footerLink: [
         {
-          name: "View Google Assistant Action",
+          name: "View Photo",
           url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
         }
       ]
     },
-
-    {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
-      footerLink: [
-        {name: "Certification", url: ""},
-        {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
-        }
-      ]
-    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
