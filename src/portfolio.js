@@ -20,8 +20,8 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Saad Pasta",
-  title: "Hi all, I'm Saad",
+  username: "Min",
+  title: "Hello Hello, its Min.",
   subTitle: emoji(
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
@@ -117,7 +117,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-docker"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Education Section
@@ -161,29 +161,61 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Senior Mobile Consultant - Android",
+      company: "Thoughtworks",
+      companylogo: require("./assets/images/thoughtworksLogo.jpg"),
+      date: "Oct 2023 - Mar 2025",
+      desc: "",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Contributed to Android features across booking and Frequent Flyer experiences in the Qantas app.",
+        "Focused on stability, accessibility, and iterative releases in a cross-functional Agile team.",
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Android Engineer Specialist",
+      company: "Central Tech",
+      companylogo: require("./assets/images/centralDigitalLogo.jpeg"),
+      date: "Mar 2022 – Sep 2023",
+      desc: "",
+      descBullets: [
+        "Worked on Central, TopsOnline, and Supersports apps.",
+        "Migrated T1 payments,revamped networking layer, introduced Jetpack Compose UI."
+      ]
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Android Engineer",
+      company: "2App Studio",
+      companylogo: require("./assets/images/2AppStudioLogo.jpeg"),
+      date: "Aug 2021 - Dec 2021",
+      desc: "Built features for Journey and Jotterpad using Kotlin, Java, MVVM. Migrated to Room DB, integrated Google Drive, OneDrive, Dropbox APIs."
+    },
+    {
+      role: "Mobile Developer",
+      company: "UMFCCI (Myanmar)",
+      companylogo: require("./assets/images/UMFCCILogo.png"),
+      date: "Feb 2021 - Aug 2021",
+      desc: "Developed UMFCCI Member App using Flutter and Dart for Play Store and App Store. Ensured responsive performance and collaborated on feature design."
+    },
+    {
+      role: "Developer Technical Support Engineer",
+      company: "Huawei Technologies",
+      companylogo: require("./assets/images/huaweiLogo.png"),
+      date: "Aug 2020 - Jan 2021",
+      desc: "Integrated HMS Core kits (Map, Push, Account, Analytics). Supported developers across multiple countries with Java/Kotlin solutions and developer tooling."
+    },
+    {
+      role: "Lead Android Developer",
+      company: "Mother Finance",
+      companylogo: require("./assets/images/motherFinanceLogo.png"),
+      date: "Sep 2019 - Jun 2020",
+      desc: "Remodeled finance app with Kotlin-MVVM, added KBZ Payment, and reduced crash rate via Firebase and Huawei Crash Services."
+    },
+    {
+      role: "Project Manager & Android Developer",
+      company: "Global New Wave Technology",
+      companylogo: require("./assets/images/newWaveLogo.jpeg"),
+      date: "May 2017 - Jun 2019",
+      desc: "Built Burma Branded Clothing app using Java/MVP. Led cross-functional content creation for Hino Myanmar’s social presence."
     }
   ]
 };
@@ -311,7 +343,7 @@ const blogSection = {
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
@@ -330,7 +362,7 @@ const talkSection = {
       event_url: "https://www.facebook.com/events/2339906106275053/"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
@@ -343,7 +375,7 @@ const podcastSection = {
   podcast: [
     "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Resume Section
@@ -352,7 +384,7 @@ const resumeSection = {
   subtitle: "Feel free to download my resume",
 
   // Please Provide with Your Podcast embeded Link
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 const contactInfo = {
@@ -367,7 +399,7 @@ const contactInfo = {
 
 const twitterDetails = {
   userName: "twitter", //Replace "twitter" with your twitter username without @
-  display: true // Set true to display this section, defaults to false
+  display: false // Set true to display this section, defaults to false
 };
 
 const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
