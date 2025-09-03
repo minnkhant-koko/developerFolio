@@ -289,7 +289,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/supersportsLogo.jpg"),
+      image: require("./assets/images/supersportsLogo.png"),
       projectName: "Supersports",
       projectDesc: "The Game Starts Here",
       footerLink: [
