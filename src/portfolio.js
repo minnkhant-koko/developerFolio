@@ -273,7 +273,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Playstore",
-          url: "http://nextu.se/"
+          url: "https://play.google.com/store/apps/details?id=com.centraldepartment.app&hl=en"
         }
       ]
     },
@@ -382,7 +382,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "View Photo",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          url: "https://drive.google.com/file/d/1DtF8RicVgo6kQVFOfQHbXeICxhe4B8lw/view?usp=sharing"
         }
       ]
     },
