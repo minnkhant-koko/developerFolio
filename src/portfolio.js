@@ -21,7 +21,7 @@ const illustration = {
 
 const greeting = {
   username: "Min",
-  title: "Hello Hello, its Min.",
+  title: "Hello, its Min.",
   subTitle: emoji(
     "An accomplished Android Engineer with 8 years of experience in designing, developing, and supporting innovative solutions across multiple industries, including Airlines, FinT ech, Lifestyle, Agency, Consumer Services, and Newsletter. Proven ability to deliver high-quality code and support end-to-end product development lifecycle. Adept at collaborating with cross-functional teams, including designers, product managers, and developers, to create and implement solutions that meet business and user needs."
   ),
