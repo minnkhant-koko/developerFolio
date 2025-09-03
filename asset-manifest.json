@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/developerFolio/static/css/main.699532b1.css",
-    "main.js": "/developerFolio/static/js/main.747ae6f8.js",
+    "main.css": "/developerFolio/static/css/main.16dd858e.css",
+    "main.js": "/developerFolio/static/js/main.67f307b6.js",
     "static/css/64.bba8fa55.chunk.css": "/developerFolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/developerFolio/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/developerFolio/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.bda0d7b7.chunk.js": "/developerFolio/static/js/769.bda0d7b7.chunk.js",
     "static/media/cuPyayLogo.png": "/developerFolio/static/media/cuPyayLogo.0ec90f31b79d4c248ae9.png",
     "static/media/Montserrat-Regular.ttf": "/developerFolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/min_resume.pdf": "/developerFolio/static/media/min_resume.0f959ce16d837137d478.pdf",
     "static/media/Agustina.woff": "/developerFolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/motherFinanceLogo.png": "/developerFolio/static/media/motherFinanceLogo.bc6ec3e4d3904a82449c.png",
     "static/media/qantasAppLogo.png": "/developerFolio/static/media/qantasAppLogo.53739e0803ecf44b975f.png",
@@ -23,18 +24,17 @@
     "static/media/centralDigitalLogo.jpeg": "/developerFolio/static/media/centralDigitalLogo.61249e5113a7d2f61ee9.jpeg",
     "static/media/newWaveLogo.jpeg": "/developerFolio/static/media/newWaveLogo.db52d14eb94ba2595d38.jpeg",
     "static/media/skill.svg": "/developerFolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
-    "static/media/resume.pdf": "/developerFolio/static/media/resume.f0f733dd3cd732b39262.pdf",
     "index.html": "/developerFolio/index.html",
     "static/media/talksCardBack.svg": "/developerFolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.699532b1.css.map": "/developerFolio/static/css/main.699532b1.css.map",
-    "main.747ae6f8.js.map": "/developerFolio/static/js/main.747ae6f8.js.map",
+    "main.16dd858e.css.map": "/developerFolio/static/css/main.16dd858e.css.map",
+    "main.67f307b6.js.map": "/developerFolio/static/js/main.67f307b6.js.map",
     "64.bba8fa55.chunk.css.map": "/developerFolio/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/developerFolio/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/developerFolio/static/css/769.b3cbb36b.chunk.css.map",
     "769.bda0d7b7.chunk.js.map": "/developerFolio/static/js/769.bda0d7b7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.699532b1.css",
-    "static/js/main.747ae6f8.js"
+    "static/css/main.16dd858e.css",
+    "static/js/main.67f307b6.js"
   ]
 }
