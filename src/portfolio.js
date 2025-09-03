@@ -187,35 +187,56 @@ const workExperiences = {
       company: "2App Studio",
       companylogo: require("./assets/images/2AppStudioLogo.jpeg"),
       date: "Aug 2021 - Dec 2021",
-      desc: "Built features for Journey and Jotterpad using Kotlin, Java, MVVM. Migrated to Room DB, integrated Google Drive, OneDrive, Dropbox APIs."
+      desc: "",
+      descBullets: [
+        "Built features for Journey and Jotterpad using Kotlin, Java, and MVVM.",
+        "Migrated to Room DB, integrated Google Drive, OneDrive, Dropbox APIs."
+      ]
     },
     {
       role: "Mobile Developer",
       company: "UMFCCI (Myanmar)",
       companylogo: require("./assets/images/UMFCCILogo.png"),
       date: "Feb 2021 - Aug 2021",
-      desc: "Developed UMFCCI Member App using Flutter and Dart for Play Store and App Store. Ensured responsive performance and collaborated on feature design."
+      desc: "",
+      descBullets: [
+        "Developed UMFCCI Member App using Flutter and Dart for Play Store and App Store.",
+        "Ensured responsive performance and collaborated on feature design."
+      ]
     },
     {
       role: "Developer Technical Support Engineer",
       company: "Huawei Technologies",
       companylogo: require("./assets/images/huaweiLogo.png"),
       date: "Aug 2020 - Jan 2021",
-      desc: "Integrated HMS Core kits (Map, Push, Account, Analytics). Supported developers across multiple countries with Java/Kotlin solutions and developer tooling."
+      desc: "",
+      descBullets: [
+        "Integrated HMS Core kits (Map, Push, Account, Analytics).",
+        "Supported developers across multiple countries with Java/Kotlin solutions and developer tooling."
+      ]
     },
     {
       role: "Lead Android Developer",
       company: "Mother Finance",
       companylogo: require("./assets/images/motherFinanceLogo.png"),
       date: "Sep 2019 - Jun 2020",
-      desc: "Remodeled finance app with Kotlin-MVVM, added KBZ Payment, and reduced crash rate via Firebase and Huawei Crash Services."
+      desc: "",
+      descBullets: [
+        "Remodeled finance app with Kotlin-MVVM.",
+        "Integrated KBZ Payment.",
+        "Reduced crash rate via Firebase and Huawei Crash Services."
+      ]
     },
     {
       role: "Project Manager & Android Developer",
       company: "Global New Wave Technology",
       companylogo: require("./assets/images/newWaveLogo.jpeg"),
       date: "May 2017 - Jun 2019",
-      desc: "Built Burma Branded Clothing app using Java/MVP. Led cross-functional content creation for Hino Myanmar’s social presence."
+      desc: "",
+      descBullets: [
+        "Built Burma Branded Clothing app using Java/MVP.",
+        "Led cross-functional content creation for Hino Myanmar’s social presence."
+      ]
     }
   ]
 };
