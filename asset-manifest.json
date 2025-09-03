@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/developerFolio/static/css/main.16dd858e.css",
-    "main.js": "/developerFolio/static/js/main.d6c8f7f4.js",
+    "main.js": "/developerFolio/static/js/main.d03b6ac9.js",
     "static/css/64.bba8fa55.chunk.css": "/developerFolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/developerFolio/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/developerFolio/static/css/769.b3cbb36b.chunk.css",
@@ -10,12 +10,12 @@
     "static/media/Montserrat-Regular.ttf": "/developerFolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/min_resume.pdf": "/developerFolio/static/media/min_resume.0f959ce16d837137d478.pdf",
     "static/media/Agustina.woff": "/developerFolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/supersportsLogo.png": "/developerFolio/static/media/supersportsLogo.d65021757a5027a234d3.png",
     "static/media/motherFinanceLogo.png": "/developerFolio/static/media/motherFinanceLogo.bc6ec3e4d3904a82449c.png",
     "static/media/qantasAppLogo.png": "/developerFolio/static/media/qantasAppLogo.53739e0803ecf44b975f.png",
     "static/media/UMFCCILogo.png": "/developerFolio/static/media/UMFCCILogo.3bf7fe97d8b9a3848823.png",
     "static/media/manOnTable.svg": "/developerFolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/huaweiLogo.png": "/developerFolio/static/media/huaweiLogo.87f9c567cbc3c42a0b6c.png",
-    "static/media/supersportsLogo.jpg": "/developerFolio/static/media/supersportsLogo.f6fb4fa74b6360c030a5.jpg",
     "static/media/contactMailDark.svg": "/developerFolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/developerFolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/centralOnlineLogo.jpg": "/developerFolio/static/media/centralOnlineLogo.ec0af76753a70885ff4c.jpg",
@@ -27,7 +27,7 @@
     "index.html": "/developerFolio/index.html",
     "static/media/talksCardBack.svg": "/developerFolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.16dd858e.css.map": "/developerFolio/static/css/main.16dd858e.css.map",
-    "main.d6c8f7f4.js.map": "/developerFolio/static/js/main.d6c8f7f4.js.map",
+    "main.d03b6ac9.js.map": "/developerFolio/static/js/main.d03b6ac9.js.map",
     "64.bba8fa55.chunk.css.map": "/developerFolio/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/developerFolio/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/developerFolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -35,6 +35,6 @@
   },
   "entrypoints": [
     "static/css/main.16dd858e.css",
-    "static/js/main.d6c8f7f4.js"
+    "static/js/main.d03b6ac9.js"
   ]
 }
