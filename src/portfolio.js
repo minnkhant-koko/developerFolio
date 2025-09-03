@@ -26,7 +26,7 @@ const greeting = {
     "An accomplished Android Engineer with 8 years of experience in designing, developing, and supporting innovative solutions across multiple industries, including Airlines, FinTech, Lifestyle, Agency, Consumer Services, and Newsletter. Proven ability to deliver high-quality code and support end-to-end product development lifecycle. Adept at collaborating with cross-functional teams, including designers, product managers, and developers, to create and implement solutions that meet business and user needs."
   ),
   resumeLink:
-    "", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1WUkRl6ggaO1F-DxYkVMligvC8rJL-ir6/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
