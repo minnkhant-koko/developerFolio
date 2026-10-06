@@ -23,7 +23,7 @@ const greeting = {
   username: "Min",
   title: "Hello, its Min.",
   subTitle: emoji(
-    "An accomplished Android Engineer with 8 years of experience in designing, developing, and supporting innovative solutions across multiple industries, including Airlines, FinTech, Lifestyle, Agency, Consumer Services, and Newsletter. Proven ability to deliver high-quality code and support end-to-end product development lifecycle. Adept at collaborating with cross-functional teams, including designers, product managers, and developers, to create and implement solutions that meet business and user needs."
+    "Android Engineer who designs, builds, and supports high-quality mobile apps across Airlines, FinTech, Lifestyle, Agency, Consumer Services, and Media. Strong end-to-end ownership, from architecture and feature development through release and post-production support. Known for clean, reliable code and for working closely with designers, product managers, and engineers to ship solutions that serve real business and user needs."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1WUkRl6ggaO1F-DxYkVMligvC8rJL-ir6/view?usp=sharing", // Set to empty to hide the button
@@ -40,6 +40,7 @@ const socialMediaLinks = {
   facebook: "",
   medium: "",
   stackoverflow: "",
+  substack: "https://substack.com/@kokokodes",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -459,7 +460,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+66 06 188 36394",
+  number: "+1 (778) 955-6990",
   email_address: "hello.minnkhant@gmail.com"
 };
 
