@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/developerFolio/static/css/main.16dd858e.css",
-    "main.js": "/developerFolio/static/js/main.d03b6ac9.js",
+    "main.js": "/developerFolio/static/js/main.1f68bc71.js",
     "static/css/64.bba8fa55.chunk.css": "/developerFolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/developerFolio/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/developerFolio/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.bda0d7b7.chunk.js": "/developerFolio/static/js/769.bda0d7b7.chunk.js",
     "static/media/cuPyayLogo.png": "/developerFolio/static/media/cuPyayLogo.0ec90f31b79d4c248ae9.png",
     "static/media/Montserrat-Regular.ttf": "/developerFolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
-    "static/media/min_resume.pdf": "/developerFolio/static/media/min_resume.0f959ce16d837137d478.pdf",
+    "static/media/min_resume.pdf": "/developerFolio/static/media/min_resume.29c75b1bc3d376292bd4.pdf",
     "static/media/Agustina.woff": "/developerFolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/supersportsLogo.png": "/developerFolio/static/media/supersportsLogo.d65021757a5027a234d3.png",
     "static/media/motherFinanceLogo.png": "/developerFolio/static/media/motherFinanceLogo.bc6ec3e4d3904a82449c.png",
@@ -27,7 +27,7 @@
     "index.html": "/developerFolio/index.html",
     "static/media/talksCardBack.svg": "/developerFolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.16dd858e.css.map": "/developerFolio/static/css/main.16dd858e.css.map",
-    "main.d03b6ac9.js.map": "/developerFolio/static/js/main.d03b6ac9.js.map",
+    "main.1f68bc71.js.map": "/developerFolio/static/js/main.1f68bc71.js.map",
     "64.bba8fa55.chunk.css.map": "/developerFolio/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/developerFolio/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/developerFolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -35,6 +35,6 @@
   },
   "entrypoints": [
     "static/css/main.16dd858e.css",
-    "static/js/main.d03b6ac9.js"
+    "static/js/main.1f68bc71.js"
   ]
 }
